@@ -1,4 +1,4 @@
-# Top-up and transfer
+# Connect top-up and transfer
 
 ## Requirements
 * PHP >= 7.1.3
