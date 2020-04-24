@@ -1,6 +1,6 @@
 {
   "name": "connect-top-up-and-transfer",
-  "configureDotEnv": true,
+  "configureDotEnv": false,
   "integrations": [
     {
       "name": "main",
