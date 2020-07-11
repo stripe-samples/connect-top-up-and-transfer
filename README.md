@@ -3,10 +3,6 @@
 This Stripe sample shows you how to make top-up and pay out money.
 Before using this sample, you should have onboarded at least one Connect account. For more about onboarding accounts and topping up and paying out, read our [step-by-step Connect guide](https://stripe.com/docs/connect/add-and-pay-out-guide).
 
-Demo url: https://bk7tn.sse.codesandbox.io/
-
-Sandbox url: https://codesandbox.io/s/connect-top-up-and-transfer-bk7tn
-
 ![demo](.readme/screenshot.png)
 
 ## How to run locally
