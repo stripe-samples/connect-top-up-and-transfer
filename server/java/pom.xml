@@ -27,13 +27,13 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.8</version>
+            <version>1.18.24</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.stripe</groupId>
             <artifactId>stripe-java</artifactId>
-            <version>21.5.0</version>
+            <version>21.6.0</version>
         </dependency>
         <dependency>
             <groupId>io.github.cdimascio</groupId>
