@@ -1,7 +1,7 @@
 certifi==2023.7.22
-chardet==3.0.4
+chardet==5.2.0
 Click==7.0
-Flask==1.0.3
+Flask==2.3.3
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.11.3
@@ -11,4 +11,4 @@ requests==2.22.0
 stripe==4.1.0
 toml==0.9.6
 urllib3==1.26.12
-Werkzeug==1.0.1
+Werkzeug==2.3.7
